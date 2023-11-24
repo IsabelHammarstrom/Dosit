@@ -5,3 +5,4 @@ Det kan vara svårt att komma ihåg när man ska ta sina mediciner, därför har
 
 Behöver du ta dina mediciner utanför hemmet, vad bra! Du kan lätt ta med våra dosetter vart du än går.
 
+Länk till applikation: https://github.com/Jennie0128/DosItProjekt 
